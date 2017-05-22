@@ -6,4 +6,6 @@ public class Test {
     private double id;
     private long d;
 
+    private static int name;
+
 }
