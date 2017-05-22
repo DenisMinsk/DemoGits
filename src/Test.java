@@ -7,5 +7,6 @@ public class Test {
     private long d;
 
     private static int name;
-    private int t;
+    private double ttt;
+
 }
