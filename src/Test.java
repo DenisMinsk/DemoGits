@@ -4,5 +4,6 @@
 public class Test {
     private int old;
     private double id;
+    private long d;
 
 }
