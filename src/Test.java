@@ -2,5 +2,6 @@
  * Created by Николай on 22.05.2017.
  */
 public class Test {
-    private byte i;
+    private int old;
+
 }
